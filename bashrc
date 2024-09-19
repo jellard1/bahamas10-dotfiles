@@ -163,7 +163,7 @@ PS1+='\[${COLOR256[0]}\]\[${COLOR256[257]}\]'"$(zonename 2>/dev/null | grep -q '
 PS1+='\[${PROMPT_COLORS[3]}\]\h '
 
 # uname
-PS1+='\[${PROMPT_COLORS[2]}\]'"$(uname | tr '[:upper:]' '[:lower:]')"' '
+#PS1+='\[${PROMPT_COLORS[2]}\]'"$(uname | tr '[:upper:]' '[:lower:]')"' '
 
 # cwd
 PS1+='\[${PROMPT_COLORS[5]}\]\w '
