@@ -20,7 +20,7 @@ export HISTSIZE=5000
 export HISTFILESIZE=5000
 export LSCOLORS='ExGxbEaECxxEhEhBaDaCaD'
 export PAGER='less'
-export TZ='America/New_York'
+export TZ='America/Los_Angeles'
 export VISUAL='vim'
 
 # Support colors in less
